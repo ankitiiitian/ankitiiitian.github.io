@@ -13626,7 +13626,8 @@ fieldset[disabled] .btn-xl.active {
   text-transform: uppercase;
   font-weight: 1000;
   letter-spacing: 1px;
-  color: rgb(243, 161, 8);
+   color: rgb(243, 8, 8);
+  font-size: 150%;
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
