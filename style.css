@@ -13452,6 +13452,7 @@ html {
 
 .text-muted {
   color: #777777;
+  font-size: 2rem;
 }
 .text-primary {
   color: #4c4c4c;
@@ -13928,6 +13929,7 @@ section h3.section-subheading {
     width: 500px;
     left: 50%;
     margin-left: -10px;
+    margin-top: 35%;
   }
 
 @media (min-width: 768px) {
