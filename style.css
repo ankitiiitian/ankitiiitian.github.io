@@ -13835,6 +13835,7 @@ section h3.section-subheading {
 
 .service-img img{
   width: 400px;
+   margin-left: -10%;
 }
 
 /***********************************************************************
@@ -14204,4 +14205,15 @@ Carousel arrows
     position: static;
     height: 30px;
     width: 30px;
+}
+.serve{
+  position: center;
+  min-height: 1px;
+  
+  margin-left: 10%;
+}
+.ttt{
+  text-align: center;
+  margin-right: 10%;
+  margin-left: -10%;
 }
