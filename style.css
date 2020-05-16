@@ -13919,6 +13919,7 @@ section h3.section-subheading {
   padding: 0;
   position: relative;
   text-align: center;
+  margin-right: 15%;
 }
 
   #about .timeline p{
@@ -13928,7 +13929,7 @@ section h3.section-subheading {
   #about .timeline img {
     width: 500px;
     left: 50%;
-    margin-left: -25px;
+    margin-left: -15px;
     margin-top: 35%;
   }
 
